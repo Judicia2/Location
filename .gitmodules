@@ -1,0 +1,3 @@
+[submodule "Location"]
+	path = Location
+	url = https://github.com/Judicia2/Location.git
